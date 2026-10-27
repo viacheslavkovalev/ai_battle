@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "algorithm": "sha256",
+  "files": {
+    "project/Dockerfile": "2e2da3c43df2bf48e5ec391ba891084b73fd5cb0ada9677a01a900cc9cca1857",
+    "project/README.md": "e888f1bdc62c645fc146742e037f67e244d78aaa2a18c0900790bf2f2f390196",
+    "project/app/server.py": "a8c1c1688de35ff9a7cdd4004b991661ae8d4d513597ad075b77b68df6ca722c",
+    "project/compose.yaml": "0b5d1a62eb405199cdabb9dd9649bd7c56c1369f91ce3822537912901804d3d7",
+    "project/nginx/default.conf": "55a3861acf690af0a4cd10a9cfed4170f62878a676836cb4242ed7558accbd7e",
+    "project/nginx/users.htpasswd": "6717fa7cab1be032287a12180e02f6976b4bd7c25d0f81eb9dcbcc1d0a032f03",
+    "project/ops/backup.json": "f948b680106e7a31ffaaf3350efb10182cfa0a888a46d857b99db2895ed0d2bd",
+    "project/tests/test_http.py": "7b0fb6dc4276e4bcf4e4fc62f0695ac2c631d9497e9c4eb586993ce2f3fbd041",
+    "task.md": "ea2a127e16f2bdee83d57f12100134d6760f77985f756d46097687c686c73b75"
+  }
+}
